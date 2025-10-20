@@ -25,3 +25,5 @@ Markdown code should follow following rules:
 - Bullet points should have a blank line before and after
 - No trailing spaces
 - End each file with a newline
+
+Our Azure setup follows Microsoft's enterprise scale architecture guidelines and we have a hub deployed in the Norway East region.
